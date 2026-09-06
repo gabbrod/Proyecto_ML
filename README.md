@@ -5,12 +5,12 @@ Aprendizaje de Máquina — Universidad Industrial de Santander (UIS).
 - Maria Jose Chavez Torres 2251727
 
 ## Descripción
-Este proyecto aplica técnicas de aprendizaje de máquina para la detección de fallas en maquinaria industrial, utilizando el dataset "Machine Predictive Maintenance Classification" de Kaggle.
+En la industria moderna, las fallas inesperadas en maquinaria generan altos costos de producción, tiempos de parada no planificados y riesgos de seguridad. El mantenimiento predictivo busca anticipar estas fallas antes de que ocurran, utilizando datos de sensores y modelos de aprendizaje automático para identificar patrones que indican un posible mal funcionamiento.
+
+Este proyecto, tiene como objetivo aplicar técnicas de clasificación para predecir si una máquina va a fallar y, en caso de falla, identificar el tipo de falla, a partir de variables como temperatura, velocidad rotacional, torque y desgaste de la herramienta.
 
 ## Dataset
-- Fuente: [Kaggle - Machine Predictive Maintenance Classification](https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification)
-- 10,000 registros, 10 columnas (variables de temperatura, velocidad rotacional, torque, desgaste de herramienta, entre otras).
-
+Se utiliza el dataset [Machine Predictive Maintenance Classification](https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification) de Kaggle, compuesto por 10,000 registros y 10 variables, incluyendo mediciones de temperatura del aire y del proceso, velocidad rotacional, torque y desgaste de herramienta, junto con la variable objetivo que indica si hubo falla y de qué tipo.
 ## Estructura del repositorio
 ```
 ├── data/           # Dataset original
