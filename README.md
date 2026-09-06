@@ -2,7 +2,7 @@
 Aprendizaje de Máquina — Universidad Industrial de Santander (UIS).
 ## Integrantes
 - Lesly Gabriela Rodriguez 2251510
-- Maria Jose Chavez Torres 225
+- Maria Jose Chavez Torres 2251727
 
 ## Descripción
 Este proyecto aplica técnicas de aprendizaje de máquina para la detección de fallas en maquinaria industrial, utilizando el dataset "Machine Predictive Maintenance Classification" de Kaggle.
@@ -12,10 +12,12 @@ Este proyecto aplica técnicas de aprendizaje de máquina para la detección de 
 - 10,000 registros, 10 columnas (variables de temperatura, velocidad rotacional, torque, desgaste de herramienta, entre otras).
 
 ## Estructura del repositorio
-├── data/ # Dataset original
-├── notebooks/ # Notebooks de análisis y modelado
-├── informe/ # Informe en LaTeX
+```
+├── data/           # Dataset original
+├── notebooks/      # Notebooks de análisis y modelado
+├── informe/        # Informe en LaTeX
 ├── README.md
+```
 
 ## Metodología
 1. Análisis exploratorio de datos (EDA)
