@@ -8,7 +8,7 @@ Aprendizaje de Máquina — Universidad Industrial de Santander (UIS).
 Este proyecto aplica técnicas de aprendizaje de máquina para la detección de fallas en maquinaria industrial, utilizando el dataset "Machine Predictive Maintenance Classification" de Kaggle.
 
 ## Dataset
-- Fuente: [Kaggle - Machine Predictive Maintenance Classification](enlace)
+- Fuente: [Kaggle - Machine Predictive Maintenance Classification](https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification)
 - 10,000 registros, 10 columnas (variables de temperatura, velocidad rotacional, torque, desgaste de herramienta, entre otras).
 
 ## Estructura del repositorio
