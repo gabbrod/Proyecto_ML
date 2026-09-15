@@ -18,7 +18,7 @@ Se utiliza el dataset [Machine Predictive Maintenance Classification](https://ww
 ```
 ├── data/           # Dataset original
 ├── notebooks/      # Notebooks de análisis y modelado
-├── informe/        # Informe en LaTeX
+├── informe/        # Informes de cada entrega
 ├── README.md
 ```
 
