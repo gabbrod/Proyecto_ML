@@ -1,3 +1,6 @@
+![Banner del proyecto](assets/banner.png)
+
+# Proyecto_ML
 # Detección de Fallas en Maquinaria Industrial con Machine Learning
 Aprendizaje de Máquina — Universidad Industrial de Santander (UIS).
 ## Integrantes
