@@ -34,4 +34,5 @@ Se utiliza el dataset [Machine Predictive Maintenance Classification](https://ww
     - scikit-learn
     - Matplotib
     - Seaborn
+    - Numpy
 
